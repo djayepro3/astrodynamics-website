@@ -138,5 +138,5 @@ fig.show()
 
 ---
 
-📂 **File name suggestion:** `content/chapter1/1_2_two_body_problem.md`
+📂 **File name:** `content/chapter1/1_2_two_body_problem.md`
 

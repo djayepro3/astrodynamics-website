@@ -126,7 +126,7 @@ fig.show()
 
 ---
 
-📂 **File name suggestion:** `content/chapter1/1_1_newtons_laws.md`
+📂 **File name:** `content/chapter1/1_1_newtons_laws.md`
 
 ---
 
