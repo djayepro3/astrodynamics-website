@@ -2,16 +2,16 @@
 
 Conic orbits—ellipses, parabolas, hyperbolas, and circles—emerge as solutions to the two-body problem under Newton's inverse-square gravitational force. Research consistently shows that these shapes arise from the balance of inertia and gravity, with the orbit type determined by energy and angular momentum. While idealized, they provide foundational models for real trajectories, though perturbations can alter paths in practice.
 
-### Key Points
+## Key Points
 - **Universal Shapes**: All unperturbed orbits are conic sections, a direct consequence of Newton's laws; this holds for satellites, planets, and spacecraft, but real orbits may deviate slightly due to additional forces.
 - **Orbit Classification**: Circular (perfect balance, rare in nature), elliptical (most common, like planetary paths), parabolic (exact escape, theoretical boundary), and hyperbolic (flybys with excess speed, used in interplanetary missions).
 - **Evidence-Based**: Derived mathematically from conservation principles; evidence leans toward ellipses for bound systems, with no major controversy, though debates exist on stability under perturbations.
 - **Practical Insight**: Understanding conics aids mission design, but always consider real-world factors like atmospheric drag or third-body gravity for accuracy.
 
-### Why Conic Orbits Matter
+## Why Conic Orbits Matter
 These shapes aren't arbitrary—they reflect fundamental physics. For instance, Earth's slightly elliptical orbit around the Sun results from just the right energy balance, keeping us in a stable path. Space agencies like NASA rely on conic models for trajectory planning, such as Voyager's hyperbolic escapes from planets.
 
-### Everyday Analogies
+## Everyday Analogies
 Think of throwing a ball: a gentle toss follows a parabolic arc (like a suborbital flight); harder throws could mimic elliptical returns if gravity curved perfectly. In space, without air, these extend to full conics—research suggests this intuition helps grasp why orbits don't spiral but follow closed or open paths.
 
 For more, explore NASA's orbital simulations at [Basics of Space Flight](https://solarsystem.nasa.gov/basics/chapter3-1/).
